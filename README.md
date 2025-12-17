@@ -13,8 +13,8 @@ Play the classic snake game directly in your browser.
 
 ## 📸 Screenshot
 
-![Snake Game Screenshot](<img width="1918" height="869" alt="Screenshot 2025-12-15 133103" src="https://github.com/user-attachments/assets/57799fc2-0adf-4eb9-88f9-789d0320df40" />
-)
+![Snake Game Screenshot] <img width="1918" height="869" alt="Screenshot 2025-12-15 133103" src="https://github.com/user-attachments/assets/5db37b0b-8498-4409-8422-581dce550505" />
+
 
 ---
 
