@@ -6,7 +6,7 @@ Play the classic snake game directly in your browser.
 ---
 
 ## 🎮 Live Demo
-👉 https://imnavneetgurjar.github.io/snakegame  
+👉 https://imnavneetgurjar.github.io/snake/  
 *(Demo link wahi use karo jo GitHub Pages me hai)*
 
 ---
